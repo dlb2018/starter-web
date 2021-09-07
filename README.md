@@ -10,7 +10,7 @@ Sample website with plenty of files for demos
 None
 
 ## How to contribute
-Don't
+Just Don't
 
 ## Deployment
 Anywhere
