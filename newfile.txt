@@ -1,3 +1,5 @@
 This is a test file with some random text for test purposes.
 
 Now I am editing this file in newfile branch.
+
+Now I am editing this file in master branch.
