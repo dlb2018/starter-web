@@ -10,7 +10,7 @@ Sample website with plenty of files for demos
 Being used by git
 
 ## How to contribute
-Just Don't
+Just Don't this is private
 
 ## Deployment
 Anywhere,
