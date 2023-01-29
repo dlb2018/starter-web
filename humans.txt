@@ -8,7 +8,7 @@
 
 # THANKS
 
-    Pete
+    Pete Cooper
 
 # TECHNOLOGY COLOPHON
 
