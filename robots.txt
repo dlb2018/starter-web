@@ -3,9 +3,4 @@
 User-agent: *
 User-name: *
 User-age: *
-<<<<<<< HEAD
 User-sex: *
-User-pronoun: *
-=======
-User-sex: *
->>>>>>> 06589be94e0470a62692764924f722b5d4e2a206
